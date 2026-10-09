@@ -12,6 +12,11 @@ body {
     text-align: center;
 }
 
+header{
+    background-color: #ff3b00;
+    padding: 1.5rem;
+}
+
 h1 {
     font-size: 3rem;
     text-transform: uppercase;
